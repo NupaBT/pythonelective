@@ -1,4 +1,4 @@
-income=int(input("enter income "))
+income=int(input("enter  your income "))
 if income<=250000:
     tax=0
 elif income > 250000 and income <= 500000:
